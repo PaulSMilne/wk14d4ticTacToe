@@ -1,0 +1,17 @@
+{
+  "name": "logic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "Paul Milne",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
